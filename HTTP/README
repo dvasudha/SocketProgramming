@@ -1,0 +1,19 @@
+ECEN 602 - MP4
+Vasudha Devarakonda Tushar Premanand
+
+DISTRIBUTION OF WORK
+server.c -> Vasudha Devarakonda 
+client.c -> Tushar Premanand
+README -> Vasudha Devarakonda 
+ChatGPT-> Tushar Premanand
+Testcase report -> Vasudha and Tushar
+
+HOW TO COMPILE
+Run the following commands
+1) make
+2) Run the server code using
+# ./server server_ip server_port
+3) Run the client code using
+# ./client server_ip portno HTTP_URL
+4) To clean the executables, use 
+# make clean
